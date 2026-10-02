@@ -1,0 +1,6 @@
+# 意図: 個人の問い合わせ内容と再生成できる実行ファイルをGitHubに載せない。
+out/
+data/
+*.class
+*.log
+.DS_Store
